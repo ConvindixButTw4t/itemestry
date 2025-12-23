@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures":
+  {
+    "layer0": "itemestry:item/ingots/bronze_ingot"
+  }
+}

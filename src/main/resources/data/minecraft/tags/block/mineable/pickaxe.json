@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "itemestry:tin_ore",
+    "itemestry:tungsten_ore",
+    "itemestry:titanium_ore",
+    "itemestry:bluestone_ore"
+  ]
+}

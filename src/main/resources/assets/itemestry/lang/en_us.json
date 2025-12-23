@@ -1,0 +1,41 @@
+{
+  "item.itemestry.bronze_ingot": "Bronze Ingot",
+  "item.itemestry.tin_ingot": "Tin Ingot",
+  "item.itemestry.red_iron_ingot": "Red iron Ingot",
+  "item.itemestry.blue_iron_ingot": "Blue iron Ingot",
+  "item.itemestry.obsidian_ingot": "Obsidian Ingot",
+  "item.itemestry.iridium_ingot": "Iridium Ingot",
+  "item.itemestry.titanium_ingot": "Titanium Ingot",
+  "item.itemestry.tungsten_ingot": "Tungsten Ingot",
+  "item.itemestry.niobium_ingot": "Niobium Ingot",
+  "item.itemestry.steel_ingot": "Steel Ingot",
+
+  "item.itemestry.steel_dust": "Steel Dust",
+  "item.itemestry.copper_dust": "Copper Dust",
+  "item.itemestry.titanium_dust": "Titanium Dust",
+  "item.itemestry.tungsten_dust": "Tungsten Dust",
+  "item.itemestry.niobium_dust": "Niobium Dust",
+  "item.itemestry.diamond_dust": "Diamond Dust",
+  "item.itemestry.bronze_dust": "Bronze Dust",
+  "item.itemestry.iron_dust": "Iron Dust",
+  "item.itemestry.obsidian_dust": "Obsidian Dust",
+  "item.itemestry.bluestone_dust": "Bluestone Dust",
+
+  "item.itemestry.steel_plate": "Steel Plate",
+  "item.itemestry.iron_plate": "Iron Plate",
+  "item.itemestry.copper_plate": "Copper Plate",
+  "item.itemestry.tin_plate": "Tin Plate",
+  "item.itemestry.titanium_plate": "Titanium Plate",
+  "item.itemestry.tungsten_plate": "Tungsten Plate",
+  "item.itemestry.niobium_plate": "Niobium Plate",
+  "item.itemestry.bronze_plate": "Bronze Plate",
+  "item.itemestry.neutronium_plate": "Neutronium Plate",
+  "item.itemestry.obsidian_plate": "Obsidian Plate",
+
+  "item.itemestry.heavy_duty_alloy": "Heavy-Duty Alloy",
+
+  "block.itemestry.tin_ore": "Tin Ore",
+  "block.itemestry.titanium_ore": "Titanium Ore",
+  "block.itemestry.tungsten_ore": "Tungsten Ore",
+  "block.itemestry.bluestone_ore": "Bluestone Ore"
+}

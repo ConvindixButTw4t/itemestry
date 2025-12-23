@@ -1,0 +1,15 @@
+{
+  "values":
+  [
+    "#c:ingots/bronze",
+    "#c:ingots/tin",
+    "#c:ingots/obsidian",
+    "#c:ingots/titanium",
+    "#c:ingots/niobium",
+    "#c:ingots/tungsten",
+    "#c:ingots/steel",
+    "#c:ingots/blue_iron",
+    "#c:ingots/red_iron",
+    "#c:ingots/iridium"
+  ]
+}

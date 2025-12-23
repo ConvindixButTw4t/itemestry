@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "itemestry:block/bluestone_ore"
+    }
+  }
+}

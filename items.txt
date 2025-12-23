@@ -1,0 +1,72 @@
+ores
+    {
+        tungsten ore --- ok
+        titanium ore --- ok
+        bluestone ore --- ok
+        tin ore --- ok
+    }
+
+ingots
+    {
+        tungsten ingot --- ok
+        bronze ingot  --- ok
+        niobium ingot --- ok
+        iridium ingot --- ok
+        titanium ingot --- ok
+        obsidian ingot --- ok
+        blue iron ingot --- ok
+        red iron ingot --- ok
+        steel ingot --- ok
+    }
+
+alloys
+    {
+        heavy-duty alloy --- ok
+        stable/unstable infinity alloy
+    }
+
+plates
+    {
+        copper plate --- ok
+        iron plate --- ok
+        tin plate --- ok
+        bronze plate  --- ok
+        titanium plate --- ok
+        neutronium plate --- ok
+        tungsten plate --- ok
+        niobium plate --- ok
+        steel plate --- ok
+        obsidian plate --- ok
+    }
+
+dusts
+    {
+        copper dust  --- ok
+        iron dust --- ok
+        tin dust --- ok
+        bronze dust  --- ok
+        diamond dust  --- ok
+        titanium dust --- ok
+        tungsten dust --- ok
+        niobium dust --- ok
+        bluestone dust --- ok
+        obsidian dust --- ok
+        steel dust --- ok
+    }
+
+fluids
+    {
+        liquid infinity - жидкая бесконечность
+        eternal shine - вечное сияние
+        molten copper
+        molten iron
+        molten tin
+        molten gold
+        molten iridium
+        molten titanium
+        molten tungsten
+        molten niobium
+        molten bluestone
+        molten obsidian
+        molten netherite
+    }

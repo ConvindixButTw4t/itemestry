@@ -1,0 +1,15 @@
+basic
+    {
+        electric furnace
+        macerator
+        metal press
+        liquid extractor
+        liquid infuser
+        compressor
+    }
+
+generators
+    {
+        coal generator
+
+    }
