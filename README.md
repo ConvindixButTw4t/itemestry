@@ -2,7 +2,7 @@
 Itemestry
 =======
 
-A mod, that adds new **ingots**, **dusts**, **plates** and **fluids** 
+A mod for **NeoForge 1.21.1**, that adds new **ingots**, **dusts**, **plates** and **fluids** 
 
 List of all items
 ==========
